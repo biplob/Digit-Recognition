@@ -2,6 +2,8 @@
 1). Digit Recognition using CNN model, Keras
 2). Configuring Tensorboard
 3). Import dependencies: 
+
+
 tensorflow - for developing and training ML models.
 matplotlib - for plotting the data.
 seaborn - for plotting confusion matrix.
